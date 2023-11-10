@@ -1,5 +1,5 @@
 var input = prompt("Please input your flavor order(s) here, separated by commas.")
-var array = input.split(", ");
+var array = input.split(",");
 
 console.log(array);
 
